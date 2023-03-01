@@ -47,22 +47,23 @@
 [The Pentesters Framework] (https://github.com/trustedsec/ptf) - Distro organizado em torno do Padrão de Execução do Teste de Penetração (PTES), fornecendo uma coleção curada de utilitários que elimina as correntes de ferramentas muitas vezes não utilizadas.
 [AttifyOS] (https://github.com/adi0x90/attifyos) - Distribuição GNU / Linux focada em ferramentas úteis durante as avaliações de segurança do Internet of Things (IoT).
 # Docker for Penetration Testing
-## docker pull kalilinux / kali-linux-docker [Kali Linux oficial] (https://hub.docker.com/r/kalilinux/kali-linux-docker/)
-## docker pull owasp / zap2docker-stable - [oficial OWASP ZAP] (https://github.com/zaproxy/zaproxy)
-## docker pull wpscanteam / wpscan - [WPScan oficial] (https://hub.docker.com/r/wpscanteam/wpscan/)
-# docker pull citizenstig / dvwa - [Damn Vulnerable Web Application (DVWA)] (https://hub.docker.com/r/citizenstig/dvwa/)
-## docker pull wpscanteam / vulnerablewordpress - [Instalação de WordPress Vulnerável] (https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
-## docker pull hmlio / vaas-cve-2014-6271 - [Vulnerabilidade como um serviço: Shellshock] (https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
-## docker pull hmlio / vaas-cve-2014-0160 - [Vulnerabilidade como serviço: Heartbleed] (https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
-## docker pull opendns / security-ninjas - [Security Ninjas] (https://hub.docker.com/r/opendns/security-ninjas/)
-## docker pull diogomonica / docker-bench-security - [Docker Bench for Security] (https://hub.docker.com/r/diogomonica/docker-bench-security/)
-## docker pull ismisepaul / securityshepherd - [OWASP Security Shepherd] (https://hub.docker.com/r/ismisepaul/securityshepherd/)
-## docker pull danmx / docker-owasp-webgoat - [OWASP WebGoat Project docker image] (https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
-## docker-compose build & & docker-compose up - [OWASP NodeGoat] (https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
-## docker pull citizenstig / nowasp - [OWASP Mutillidae II Web Pen-Test Practice Application] (https://hub.docker.com/r/citizenstig/nowasp/)
-## docker pull bkimminich / juice-shop - [OWASP Juice Shop] (https://github.com/bkimminich/juice-shop#docker-container--)
-##docker pull kalilinux / kali-linux-docker - [Kali Linux Docker Image] (https://www.kali.org/news/official-kali-linux-docker-images/)
-##docker pull phocean / msf - [docker-metasploit] (https://hub.docker.com/r/phocean/msf/)
+1. docker pull kalilinux / kali-linux-docker [Kali Linux oficial] (https://hub.docker.com/r/kalilinux/kali-linux-docker/)
+2. docker pull owasp / zap2docker-stable - [oficial OWASP ZAP] (https://github.com/zaproxy/zaproxy)
+3. docker pull wpscanteam / wpscan - [WPScan oficial] (https://hub.docker.com/r/wpscanteam/wpscan/)
+4. docker pull citizenstig / dvwa - [Damn Vulnerable Web Application (DVWA)] (https://hub.docker.com/r/citizenstig/dvwa/)
+5. docker pull wpscanteam / vulnerablewordpress - [Instalação de WordPress Vulnerável] (https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
+6. docker pull hmlio / vaas-cve-2014-6271 - [Vulnerabilidade como um serviço: Shellshock] (https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
+7. docker pull hmlio / vaas-cve-2014-0160 - [Vulnerabilidade como serviço: Heartbleed] (https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
+8. docker pull opendns / security-ninjas - [Security Ninjas] (https://hub.docker.com/r/opendns/security-ninjas/)
+9. docker pull diogomonica / docker-bench-security - [Docker Bench for Security] (https://hub.docker.com/r/diogomonica/docker-bench-security/)
+10.  docker pull ismisepaul / securityshepherd - [OWASP Security Shepherd] (https://hub.docker.com/r/ismisepaul/securityshepherd/)
+11.  docker pull danmx / docker-owasp-webgoat - [OWASP WebGoat Project docker image] (https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
+12.  docker-compose build & & docker-compose up - [OWASP NodeGoat] (https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
+13.  docker pull citizenstig / nowasp - [OWASP Mutillidae II Web Pen-Test Practice Application] (https://hub.docker.com/r/citizenstig/nowasp/)
+14.  docker pull bkimminich / juice-shop - [OWASP Juice Shop] (https://github.com/bkimminich/juice-shop#docker-container--)
+15.  docker pull kalilinux / kali-linux-docker - [Kali Linux Docker Image] (https://www.kali.org/news/official-kali-linux-docker-images/)
+16.  docker pull phocean / msf - [docker-metasploit] (https://hub.docker.com/r/phocean/msf/)
+
 ##Multi-paradigm Frameworks
 [Metasploit] (https://www.metasploit.com/) - Software para equipes de segurança ofensivas para ajudar a verificar vulnerabilidades e gerenciar avaliações de segurança.
 [Armitage] (http://fastandeasyhacking.com/) - front-end GUI baseado em Java para o Metasploit Framework.
