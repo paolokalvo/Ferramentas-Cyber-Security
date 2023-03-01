@@ -345,7 +345,7 @@ Listas impressionantes
 [Forensics] (https://github.com/Cugu/awesome-forensics) - Ferramentas e recursos de análise forense gratuitos (principalmente de código aberto).
 [Análise de malware] (https://github.com/rshipp/awesome-malware-analysis) - Ferramentas e recursos para analistas.
 [Ferramentas PCAP] (https://github.com/caesar0301/awesome-pcaptools) - Ferramentas para processar o tráfego da rede.
-[Segurança] (https://github.com/sbilly/awesome-security) - Software, bibliotecas, documentos e outros recursos.
+[Segurança] (https://github.com/sbilly/awesome-secu~rity) - Software, bibliotecas, documentos e outros recursos.
 [Bloqueio impressionante] (https://github.com/meitar/awesome-lockpicking) - Ótimos guias, ferramentas e outros recursos sobre a segurança e o comprometimento dos bloqueios, cofres e chaves.
 [SecLists] (https://github.com/danielmiessler/SecLists) - Coleção de vários tipos de listas usadas durante as avaliações de segurança.
 [Conversas de segurança] (https://github.com/PaulSec/awesome-sec-talks) - Lista de conferências de segurança.
